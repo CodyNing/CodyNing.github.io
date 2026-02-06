@@ -458,11 +458,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=OmTpFeMAAAAJ", "_blank");
         },
       },{
-        id: 'social-linkedin_custom',
-        title: 'Linkedin_custom',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/zhuo-ning-946033158/", "_blank");
+          window.open("https://github.com/CodyNing", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zhuo-ning-946033158", "_blank");
         },
       },{
       id: 'light-theme',
