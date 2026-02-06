@@ -8,6 +8,10 @@ email: cody_ning@sfu.com # your email address
 scholar_userid: OmTpFeMAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+linkedin_custom:
+  logo: https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png
+  title: LinkedIn
+  url: https://www.linkedin.com/in/zhuo-ning-946033158/
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
