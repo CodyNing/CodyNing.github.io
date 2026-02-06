@@ -458,6 +458,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=OmTpFeMAAAAJ", "_blank");
         },
       },{
+        id: 'social-linkedin_custom',
+        title: 'Linkedin_custom',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zhuo-ning-946033158/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
